@@ -1,0 +1,63 @@
+/*style.css*/
+.header {
+    height: 10em;
+    border-color: #8630bb;
+    border-width: 3px;
+    border-style: solid;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #e0cbec;
+    background-size: cover;
+    border-color: #8630bb;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.header {
+    height: 10em;
+    padding: 4em;
+    font-size: 2em;
+    background-image: url(/assets/img/portada-paginaweb4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 400;
+}
+
+.productos {
+    width: 60%;
+    margin: auto;
+}
+
+.productos td {
+    width: 50%;
+    padding: auto;
+}
+
+.productos img {
+    width: 80%;
+    border: solid 5px #9c5fc3;
+}
+
+.footer {
+    height: 7em;
+    line-height: 7em;
+    background-color: #9c5fc3;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
+
+.footer img {
+    height: 6em;
+    line-height: 6em;
+    background-color: #9c5fc3;
+    color: black;
+    text-align: center;
+    font-weight: 900;
+}
